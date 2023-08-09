@@ -15,4 +15,4 @@ const SingleCharacterLayout = ({data}) => {
     )
 }
 
-export default SingleCharacterLayout;
+export default SingleCharacterLayout; 
